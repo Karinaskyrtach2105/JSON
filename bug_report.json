@@ -1,0 +1,12 @@
+ID: 1
+Summary: Сalendar is not opening in a search form 
+Pre-conditions: The user must be registered and authorized in the system
+Steps to reproduce:  1. Open http://www.website
+                     2. Move mouse cursor to "Поиск тура" on top navigation bar
+                     3. Click on the "Поиск тура" on the opened dropdown-menu
+                     4. Click on the "Отбытие" date input field in section "Размещение"
+Actual result: Datepicker is not opening
+Expected result: Datepicker is opened
+Environment: Windows 11 Pro, Google Chrome, Version 104.0.5112.81 (Official Build) (64-bit)
+Severity: Critical
+Priopity: High
